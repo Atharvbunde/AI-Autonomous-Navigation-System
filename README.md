@@ -118,9 +118,13 @@ python simulation/grid_world.py
 📌 Add screenshots here:
 
 ```
-images/terminal.png
-images/maFinalOutput1.png
-images/FinalOutput2.png
+### 🧠 Simulation Output
+![Simulation](images/images/FinalOutput1.png)
+![Simulation](images/images/FinalOutput2.png)
+
+### 🧠 Terminal Output
+![Simulation](images/terminal.png)
+
 ```
 
 ---
