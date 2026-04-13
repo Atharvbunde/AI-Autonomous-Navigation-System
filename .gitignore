@@ -1,0 +1,13 @@
+# Environments (STILL IGNORE THIS - venv is usually 100MB+)
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+New Text Document.txt
