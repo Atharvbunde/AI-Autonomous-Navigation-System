@@ -84,6 +84,8 @@ python main.py
 
 ### 🧠 Simulation Output
 ![Simulation](images/FinalOutput1.png)
+![Simulation](images/FinalOutput2.png)
+
 
 ### 💻 Terminal Output
 ![Terminal](images/terminal.png)
