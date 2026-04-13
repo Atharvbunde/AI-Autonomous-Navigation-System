@@ -44,23 +44,29 @@ Input → Grid Environment → A* Algorithm → Path Planning → Robot Movement
 ---
 
 ## 📁 Folder Structure
-
 AI-Autonomous-Navigation-System/
 │
-├── data/
-├── simulation/
-│   └── grid_world.py
+├── data/                      # Dataset or map data (if used)
 │
-├── src/
-│   └── a_star.py
+├── docs/                      # Documentation (reports, diagrams)
 │
-├── outputs/
+├── images/                    # Screenshots for README
+│   ├── FinalOutput1.png
+│   ├── FinalOutput2.png
+│   └── terminal.png
+│
+├── outputs/                   # Generated results
 │   ├── images/
 │   └── videos/
+│       └── maze_run.mp4
 │
-├── images/
-├── docs/
+├── simulation/                # Main simulation code
+│   └── grid_world.py
 │
+├── src/                       # Core algorithms
+│   └── a_star.py
+│
+├── .gitignore
 ├── README.md
 ├── requirements.txt
 └── main.py
