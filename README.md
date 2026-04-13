@@ -44,12 +44,10 @@ Input → Grid Environment → A* Algorithm → Path Planning → Robot Movement
 ---
 
 ## 📁 Folder Structure
-AI-Autonomous-Navigation-System/
+AIAI-Autonomous-Navigation-System/
 │
 ├── data/                      # Dataset or map data (if used)
-│
 ├── docs/                      # Documentation (reports, diagrams)
-│
 ├── images/                    # Screenshots for README
 │   ├── FinalOutput1.png
 │   ├── FinalOutput2.png
@@ -73,8 +71,7 @@ AI-Autonomous-Navigation-System/
 ---
 
 ## ⚙️ Installation
-
-bash
+'''bash
 # Create virtual environment
 python -m venv venv
 
@@ -87,12 +84,10 @@ pip install pygame numpy
 # Save dependencies
 pip freeze > requirements.txt
 
-## ▶️ Run Project
-
-bash
+'''bash
 python simulation/grid_world.py
 
----
+
 
 ## 🎮 Controls *(if implemented)*
 
