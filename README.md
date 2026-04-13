@@ -38,19 +38,9 @@ Autonomous systems must navigate safely in complex, unpredictable environments w
 ## 🏗 System Architecture
 Input (Start/Goal)` → `Grid Environment` → `A* Algorithm` → `Path Generation` → `Robot Movement` → `Real-time Visualization`
 
-
 ## 📁 Folder Structure
-AI-Autonomous-Navigation-System/
-├── assets/             # Combined images, screenshots, and videos
-│   ├── FinalOutput1.png
-│   └── maze_run.mp4
-├── a_star.py           # The "Brain" (Algorithm)
-├── grid_world.py       # The "Eyes" (Pygame UI)
-├── main.py             # The "Start" button
-├── requirements.txt    # The "Shopping List" (Dependencies)
-├── .gitignore          # The "Filter" (Keeps GitHub clean)
-└── README.md           # The "Manual" (Documentation)
-'''
+
+![Folder Structure](images/folder_structure.png)
 ---
 
 ## ⚙️ Installation & Usage
@@ -111,7 +101,7 @@ python main.py
 ## 👨‍💻 Author
 **Atharv Bunde** 🎓 *Diploma in Mechatronics Engineering (DBATU)*
 
-🔗 **LinkedIn:** [https://www.linkedin.com/in/atharv-bunde-602361400/](https://www.linkedin.com/in/atharv-bunde-602361400/)
+🔗 **LinkedIn:** (https://www.linkedin.com/in/atharv-bunde-602361400/)
 
 ---
 
