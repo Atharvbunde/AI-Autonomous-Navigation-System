@@ -1,3 +1,11 @@
+Perfect — your README is already strong 🔥
+I’ll **only fix mistakes (syntax/formatting)** without changing your content 👇
+
+---
+
+# ✅ ✅ FIXED VERSION (Copy-Paste)
+
+md
 # 🚀 AI-Based Autonomous Navigation System
 
 ## 📌 Overview
@@ -10,72 +18,65 @@ It demonstrates the core concepts used in **self-driving cars, warehouse robots,
 
 ## 🎯 Problem Statement
 
-Autonomous systems must navigate safely in complex environments without human intervention.
+Autonomous systems must navigate safely in complex environments without human intervention.  
 This project showcases how AI can:
 
-* Plan optimal paths
-* Avoid obstacles
-* Simulate intelligent navigation
+* Plan optimal paths  
+* Avoid obstacles  
+* Simulate intelligent navigation  
 
 ---
 
 ## 🧠 Key Features
 
-* 🎮 Interactive 2D simulation using Pygame
-* 🧠 A* path planning algorithm
-* 🚧 Obstacle avoidance system
-* 🔄 Dynamic path recalculation
-* 🤖 Real-time robot movement
-* 🧱 Maze-based environment
+* 🎮 Interactive 2D simulation using Pygame  
+* 🧠 A* path planning algorithm  
+* 🚧 Obstacle avoidance system  
+* 🔄 Dynamic path recalculation  
+* 🤖 Real-time robot movement  
+* 🧱 Maze-based environment  
 
 ---
 
 ## 🛠 Tech Stack
 
-* Python
-* Pygame
-* NumPy
-* OpenCV *(for future upgrades)*
+* Python  
+* Pygame  
+* NumPy  
+* OpenCV *(for future upgrades)*  
 
 ---
 
 ## 🏗 System Architecture
-
-```
 Input → Grid Environment → A* Algorithm → Path Planning → Robot Movement → Visualization
-```
-
 ---
 
 ## 📁 Folder Structure
 
-```
 AI-Autonomous-Navigation-System/
 │
-├── data/                   
+├── data/
 ├── simulation/
-│   └── grid_world.py      
+│   └── grid_world.py
 │
 ├── src/
-│   └── a_star.py          
+│   └── a_star.py
 │
 ├── outputs/
 │   ├── images/
 │   └── videos/
 │
-├── images/                
-├── docs/                  
+├── images/
+├── docs/
 │
 ├── README.md
 ├── requirements.txt
 └── main.py
-```
-
 ---
 
 ## ⚙️ Installation
 
-```bash
+bash
 # Create virtual environment
 python -m venv venv
 
@@ -87,15 +88,11 @@ pip install pygame numpy
 
 # Save dependencies
 pip freeze > requirements.txt
-```
-
----
 
 ## ▶️ Run Project
 
-```bash
+bash
 python simulation/grid_world.py
-```
 
 ---
 
@@ -115,27 +112,23 @@ python simulation/grid_world.py
 * ✅ Maze navigation
 * ✅ Real-time simulation
 
-📌 Add screenshots here:
+---
 
-```
+## 📸 Screenshots
+
 ### 🧠 Simulation Output
-![Simulation](images/images/FinalOutput1.png)
-![Simulation](images/images/FinalOutput2.png)
 
-### 🧠 Terminal Output
-![Simulation](images/terminal.png)
+![Simulation](images/FinalOutput1.png)
+![Simulation](images/FinalOutput2.png)
 
-```
+### 💻 Terminal Output
+
+![Terminal](images/terminal.png)
 
 ---
 
-## 🎥 Demo
-
 📌 Add video here:
-
-```
 videos/maze_run.mp4
-```
 
 ---
 
@@ -165,10 +158,13 @@ videos/maze_run.mp4
 🎓 Diploma in Mechatronics Engineering (DBATU)
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/atharv-bunde-602361400/
+[https://www.linkedin.com/in/atharv-bunde-602361400/](https://www.linkedin.com/in/atharv-bunde-602361400/)
 
 ---
 
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share it!
+
+````
+
