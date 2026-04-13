@@ -41,7 +41,7 @@ Input (Start/Goal)` → `Grid Environment` → `A* Algorithm` → `Path Generati
 
 ## 📁 Folder Structure
 AI-Autonomous-Navigation/
-├── images/             # Keep this (don't clutter your root with PNGs)
+├── images/# Keep this (don't clutter your root with PNGs)
 │   └── FinalOutput.png
 ├── a_star.py           # The logic
 ├── grid_world.py       # The UI/Pygame code
