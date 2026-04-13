@@ -40,14 +40,16 @@ Input (Start/Goal)` → `Grid Environment` → `A* Algorithm` → `Path Generati
 
 
 ## 📁 Folder Structure
-AI-Autonomous-Navigation/
-├── images/# Keep this (don't clutter your root with PNGs)
-│   └── FinalOutput.png
-├── a_star.py           # The logic
-├── grid_world.py       # The UI/Pygame code
-├── main.py             # The script you actually run
-├── requirements.txt    # Essential for others to run it
-└── README.md           # Your project description
+AI-Autonomous-Navigation-System/
+├── assets/             # Combined images, screenshots, and videos
+│   ├── FinalOutput1.png
+│   └── maze_run.mp4
+├── a_star.py           # The "Brain" (Algorithm)
+├── grid_world.py       # The "Eyes" (Pygame UI)
+├── main.py             # The "Start" button
+├── requirements.txt    # The "Shopping List" (Dependencies)
+├── .gitignore          # The "Filter" (Keeps GitHub clean)
+└── README.md           # The "Manual" (Documentation)
 '''
 ---
 
