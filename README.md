@@ -34,15 +34,12 @@ Autonomous systems must navigate safely in complex, unpredictable environments w
 * **NumPy** (Efficient Grid Calculations)
 * **OpenCV** (Planned for future Computer Vision integration)
 
----
 
 ## 🏗 System Architecture
-`Input (Start/Goal)` → `Grid Environment` → `A* Algorithm` → `Path Generation` → `Robot Movement` → `Real-time Visualization`
+Input (Start/Goal)` → `Grid Environment` → `A* Algorithm` → `Path Generation` → `Robot Movement` → `Real-time Visualization`
 
----
 
 ## 📁 Folder Structure
-'''text
 AI-Autonomous-Navigation/
 ├── images/             # Keep this (don't clutter your root with PNGs)
 │   └── FinalOutput.png
