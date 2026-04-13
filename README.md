@@ -1,11 +1,3 @@
-Perfect — your README is already strong 🔥
-I’ll **only fix mistakes (syntax/formatting)** without changing your content 👇
-
----
-
-# ✅ ✅ FIXED VERSION (Copy-Paste)
-
-md
 # 🚀 AI-Based Autonomous Navigation System
 
 ## 📌 Overview
