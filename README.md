@@ -43,30 +43,14 @@ Autonomous systems must navigate safely in complex, unpredictable environments w
 
 ## 📁 Folder Structure
 '''text
-AIAI-Autonomous-Navigation-System/
-│
-├── data/                  # Map layouts or dataset files
-├── docs/                  # Technical reports and logic diagrams
-├── images/                # Assets for README and documentation
-│   ├── FinalOutput1.png
-│   ├── FinalOutput2.png
-│   └── terminal.png
-│
-├── outputs/               # Saved simulation results
-│   ├── images/
-│   └── videos/
-│       └── maze_run.mp4
-│
-├── simulation/            # UI and environment logic
-│   └── grid_world.py
-│
-├── src/                   # Core algorithm implementation
-│   └── a_star.py
-│
-├── .gitignore
-├── README.md
-├── requirements.txt
-└── main.py
+AI-Autonomous-Navigation/
+├── images/             # Keep this (don't clutter your root with PNGs)
+│   └── FinalOutput.png
+├── a_star.py           # The logic
+├── grid_world.py       # The UI/Pygame code
+├── main.py             # The script you actually run
+├── requirements.txt    # Essential for others to run it
+└── README.md           # Your project description
 '''
 ---
 
